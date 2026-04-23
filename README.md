@@ -1,4 +1,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,mongodb,nextjs,git,github,postgresql,spring,docker,notion" />
 </p>
-![snake gif](https://github.com/YOUR_USERNAME/Aifaz-Khan/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aifaz-Khan/Aifaz-Khan/output/github-contribution-grid-snake-dark.svg" />
+</p>
